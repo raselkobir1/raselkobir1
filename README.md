@@ -3,6 +3,6 @@
 
 Skills: ASP.NET / ANGULAR / VUE JS  / JS /  RDBMS / MONGODB
 
-- 🔭 I’m currently working on US Bangla Group. 
+- 🔭 I’m Completed my Bsc in Computer science and engineering from Bangladesh University of Business and Technology (BUBT). 
 - 🌱 I’m currently learning Design pattern, Solid principal, Angular.  
 
