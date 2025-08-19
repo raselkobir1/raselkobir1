@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Rasel
-#### I am a Full Stack Asp.Net software engineer at US Bangla Group.
+#### I am a Backend Software Engineer at Technonext Software Ltd.
 
-Skills: ASP.NET / ANGULAR / VUE JS  / JS /  RDBMS / MONGODB
+Skills: .NET / C# / Postgres / MS SQL / RabbitMQ / Docker / ANGULAR / Redis
 
-- 🔭 I’m Completed my Bsc in Computer science and engineering from Bangladesh University of Business and Technology (BUBT). 
-- 🌱 I’m currently learning Design pattern, Solid principal, Angular.  
+- 🔭 Software Engineer with 5+ years of experience in .NET development, API design, and database management. Proven expertise in building secure, scalable applications using C#, .NET 8, PostgreSQL, Redis, and cloud integrations.  
 
